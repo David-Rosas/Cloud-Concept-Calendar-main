@@ -1,0 +1,14 @@
+{
+    "appName": {
+        "message": "Cloud Concept",
+        "description": "The name of the react extension."
+    },
+    "appDescription": {
+        "message": "Extension for a meeting link inserting",
+        "description": "The description of the extension."
+    },
+    "btnTooltip": {
+        "message": "Cloud Concept",
+        "description": "Tooltip for the button."
+    }
+}
